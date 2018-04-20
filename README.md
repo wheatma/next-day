@@ -1,15 +1,14 @@
 # next-day
 
-![](https://wheatma.github.io/next-day/img/logo.png "logo")
+<img src="https://wheatma.github.io/next-day/img/logo.png" width="100" height="100" alt="logo" align=center />
 一款文艺小清新的日历小程序，每天更新一副图片，一段文字，一首歌曲
 
 ## 预览
-![](https://wheatma.github.io/next-day/img/1.png "预览图1")
-![](https://wheatma.github.io/next-day/img/1.png "预览图2")
-![](https://wheatma.github.io/next-day/img/1.png "预览图3")
+<img src="https://wheatma.github.io/next-day/img/1.png" width="200" alt="预览图1" align=center />
+<img src="https://wheatma.github.io/next-day/img/2.png" width="200" alt="预览图2" align=center />
+<img src="https://wheatma.github.io/next-day/img/3.png" width="200" alt="预览图3" align=center />
 
 ## 试用小程序
 
-请打开微信并扫描下方二维码
-
-![](https://wheatma.github.io/next-day/img/qrcode.png "二维码")
+请打开微信并扫描二维码
+<img src="https://wheatma.github.io/next-day/img/qrcode.jpg" width="200" alt="预览图1" align=center />
