@@ -4,9 +4,13 @@
 一款文艺小清新的日历小程序，每天更新一副图片，一段文字，一首歌曲
 
 ## 预览
-<img src="https://wheatma.github.io/next-day/img/1.png" width="200" alt="预览图1" align=center />
-<img src="https://wheatma.github.io/next-day/img/2.png" width="200" alt="预览图2" align=center />
-<img src="https://wheatma.github.io/next-day/img/3.png" width="200" alt="预览图3" align=center />
+<figure class="third">
+  <img src="https://wheatma.github.io/next-day/img/1.png" width="200" alt="预览图1" align=center />
+  <img src="https://wheatma.github.io/next-day/img/2.png" width="200" alt="预览图2" align=center />
+  <img src="https://wheatma.github.io/next-day/img/3.png" width="200" alt="预览图3" align=center />
+</figure>
+
+
 
 ## 试用小程序
 
