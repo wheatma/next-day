@@ -3,6 +3,10 @@
 <img src="https://wheatma.github.io/next-day/img/logo.png" width="100" height="100" alt="logo" align=center />
 一款文艺小清新的日历小程序，每天更新一张图片，一段文字，一首歌曲。打开每一天，不同视角看世界！
 
+## Change log
+
+[Change log](CHANGELOG.md)
+
 ## 预览
 <figure class="third">
   <img src="https://wheatma.github.io/next-day/img/1.png" width="200" alt="预览图1" align=center />
